@@ -1,17 +1,0 @@
---2021-11-27 13:23:32--  https://drive.google.com/u/0/uc?id=1WF-I8eYerKztszo0k_4mWGYgJvJsqDpl
-Resolving drive.google.com (drive.google.com)... 142.250.184.142, 2a00:1450:4017:80c::200e
-Connecting to drive.google.com (drive.google.com)|142.250.184.142|:443... connected.
-HTTP request sent, awaiting response... 302 Moved Temporarily
-Location: https://doc-00-6k-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/pk22o797k2ds9i1h9d502p5qjlgpgudd/1638004950000/10830039769635725096/*/1WF-I8eYerKztszo0k_4mWGYgJvJsqDpl [following]
-Warning: wildcards not supported in HTTP.
---2021-11-27 13:23:33--  https://doc-00-6k-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/pk22o797k2ds9i1h9d502p5qjlgpgudd/1638004950000/10830039769635725096/*/1WF-I8eYerKztszo0k_4mWGYgJvJsqDpl
-Resolving doc-00-6k-docs.googleusercontent.com (doc-00-6k-docs.googleusercontent.com)... 172.217.169.129, 2a00:1450:401a:801::2001
-Connecting to doc-00-6k-docs.googleusercontent.com (doc-00-6k-docs.googleusercontent.com)|172.217.169.129|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 536337 (524K) [application/pdf]
-Saving to: ‘uc?id=1WF-I8eYerKztszo0k_4mWGYgJvJsqDpl’
-
-uc?id=1WF-I8eYerKztszo0k_4mWGYgJvJsqDpl     0%[                                                                                    ]       0  --.-KB/s               uc?id=1WF-I8eYerKztszo0k_4mWGYgJvJsqDpl    81%[===================================================================>                ] 427.42K  2.08MB/s               uc?id=1WF-I8eYerKztszo0k_4mWGYgJvJsqDpl   100%[===================================================================================>] 523.77K  2.41MB/s    in 0.2s    
-
-2021-11-27 13:23:33 (2.41 MB/s) - ‘uc?id=1WF-I8eYerKztszo0k_4mWGYgJvJsqDpl’ saved [536337/536337]
-
